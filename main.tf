@@ -4,7 +4,7 @@ terraform {
   #backend "s3" {
   #  bucket         = "kyler-github-actions-demo-terraform-tfstate"
   #  key            = "terraform.tfstate"
-  #  region         = "us-east-1"
+  #  region         = "eu-west-2"
   #  dynamodb_table = "aws-locks"
   #  encrypt        = true
   #}
